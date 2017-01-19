@@ -9,5 +9,6 @@ public class FirstGitUsingMaven {
 	
 	void newFunction(){
 		System.out.println("Function added by ashwini");
+		System.out.println("Hii...");
 	}
 }
